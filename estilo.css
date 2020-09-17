@@ -1,0 +1,49 @@
+html,body{
+    margin: 0%;
+    padding-top: 15px;
+    }
+    
+    #corpo{
+    width: 960px;
+     margin: auto;}
+
+     
+#cabecalho{
+    color: black;
+    text-align: center;
+    background-image: url(imagens/titulo.png);
+    height: 350px;
+    width: 99,5;
+    background-position: center;
+    background-size: 100%;
+    font-size: 350%;
+    border: tomato;
+    box-sizing: border-box;
+}
+    
+#titulo{
+    padding: 150px;
+}
+
+#o_site{
+    box-sizing: border-box;
+    border: tomato;
+}
+#sala{
+
+}
+li{
+    display: inline;
+    padding: 15px;
+    color: black;
+}
+
+ul{
+    text-align: right;
+    background-color: paleturquoise;
+    height: 40px;
+}
+
+header{
+    height: 40px;
+}
